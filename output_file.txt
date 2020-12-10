@@ -1,0 +1,4 @@
+DANH SÁCH SẢN PHẨM LÀID           Name         Price        Quantity    
+2            Quần áo      10000        100         
+3            Quần áo      10000        100         
+4            Quần áo      10000        100         
